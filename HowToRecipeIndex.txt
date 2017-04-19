@@ -1,0 +1,12 @@
+Scrape the urls from january 2011 and before 
+(last recipe grabbed was czech dumplings)
+
+
+
+// Only the first 150, unfortunately :(
+Recipe index at: https://jsfiddle.net/4s4u70qc/1/
+
+If above link doesn't work, use jsfiddle.net to generate post index. Upload the following two links as external resources:
+
+https://cloud.github.com/downloads/jhwilson/Create-a-Blogger-archive-page/Make-Blogger-Archive-Page.js
+https://mamaozzystable.blogspot.com/feeds/posts/default?max-results=500&amp;alt=json-in-script&amp;callback=LoadTheArchive
